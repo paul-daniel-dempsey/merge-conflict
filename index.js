@@ -2,4 +2,4 @@ const sayHello = (name) => {
     console.log(`Hello ${name}, how are you?`);
 }
 
-sayHello('Lakshmi');
+sayHello('This is code change from Paul');
